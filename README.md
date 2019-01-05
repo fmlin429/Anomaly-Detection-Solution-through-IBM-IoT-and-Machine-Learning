@@ -23,7 +23,7 @@ This is part of the effort on Advance Data Science Capstone Project. The overall
 ### 5. Development Machine Learning Model in Watson Studio
 
 
-### 6 Delopy Model to Waston Machine Learning 
+### 6. Delopy Model to Waston Machine Learning 
 
 
 
