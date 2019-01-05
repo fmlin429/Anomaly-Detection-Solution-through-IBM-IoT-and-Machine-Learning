@@ -1,4 +1,4 @@
-# Anomaly Detection Solution through IBM IoT and Machine Learning Technologies
+# An End to End Anomaly Detection Solution with IBM IoT and Machine Learning Technologies
 This is part of the effort on Advance Data Science Capstone Project. The overall solution is extended from Romeo Kienzler's AI Paper: https://developer.ibm.com/series/iot-anomaly-detection-deep-learning/ 
 
 
