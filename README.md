@@ -1,13 +1,20 @@
-# An End to End Anomaly Detection Solution with IBM IoT and Machine Learning Technologies
-This is part of the effort on Advance Data Science Capstone Project. The overall solution is extended from Romeo Kienzler's AI Paper: https://developer.ibm.com/series/iot-anomaly-detection-deep-learning/ 
+# Generative Adversarial Networks (GAN) Application Case Study through MNIST Dataset
+The Objective and Ideas:
+
+To explore more advanced areas in deep learning after the course works, I selected Generative Adversarial Networks and it’s variants, which are becoming the most important algorithm pattern in Deep Learning. MNIST Dataset’s simplicity on implementation makes it the great fit for learning the GAN concept.
 
 
-### Solution Architecture
+### Outline
 
-![image](https://user-images.githubusercontent.com/18288611/50719984-6f378c80-106a-11e9-9f16-6d7ecd63482e.png)
+#### Generative Adversarial Networks (GAN)
+* Background
+* Architecture
+* Application Areas and Examples  
 
+#### A Case Study using MNIST Image Dataset 
+* Introduce MNIST Dataset through a classification example
+* Case Study: Generate MNIST images through GAN
 
-### 1. IoT Simulation through Node-Red Application
 
 
 
