@@ -15,17 +15,19 @@ To explore more advanced areas in deep learning after the course works, I select
 * Introduce MNIST Dataset through a classification example
 * Case Study: Generate MNIST images through GAN
 
-### 3. GAN Snapshoot
+### 3. Generative Adversarial Networks (GAN) Review
+
+#### GAN Snapshoot
 
 <img width="813" alt="gan_snapshoot" src="https://user-images.githubusercontent.com/18288611/51065246-79f1a480-15c9-11e9-9afd-27f5eb8fb627.png">
 
-### GAN Architecture
+#### GAN Architecture (MNIST as an example)
 
-### GAN Architecture (MNIST as an example)
+<img width="675" alt="gan_architecture" src="https://user-images.githubusercontent.com/18288611/51066168-4cf3c080-15ce-11e9-9902-297b6b17a529.png">
+
+#### GAN Applications example
 
 <img width="740" alt="gan_instance" src="https://user-images.githubusercontent.com/18288611/51065266-968ddc80-15c9-11e9-975b-40bc63012bd2.png">
-
-### GAN Applications example
 
 
 ### MNIST Dataset
