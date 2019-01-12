@@ -66,7 +66,7 @@ To explore more advanced areas in deep learning after the course works, I select
 #### GAN Results Review
 <img width="823" alt="gan_results" src="https://user-images.githubusercontent.com/18288611/51066472-eff90a00-15cf-11e9-9a59-16550f57cc37.png">
 
-The results show the image quality improved signficantly with the epcodes (iterations). The image quality of 400 epcode is close to the real MNIST Images.   
+The results show the image quality improved signficantly with the epcodes (iterations). The image quality of 400 epochs is close to the real MNIST Images.   
 
 ### 5. Reference
 
