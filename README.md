@@ -15,6 +15,9 @@ To explore more advanced areas in deep learning after the course works, I select
 * Introduce MNIST Dataset through a classification example
 * Case Study: Generate MNIST images through GAN
 
+#### A results of loss/accuracy vs. epocdes diagram of the simple Feed forward Neural Network
+<img width="614" alt="mnist_result_analysis" src="https://user-images.githubusercontent.com/18288611/51066572-a52bc200-15d0-11e9-8139-f124c6bef046.png">
+
 ### 3. Generative Adversarial Networks (GAN) Review
 
 #### GAN Snapshoot
@@ -51,6 +54,7 @@ To explore more advanced areas in deep learning after the course works, I select
 #### GAN Results Review
 <img width="823" alt="gan_results" src="https://user-images.githubusercontent.com/18288611/51066472-eff90a00-15cf-11e9-9a59-16550f57cc37.png">
 
+The results show the image quality improved signficantly with the epcodes (iterations). The image quality of 400 epcode is close to the real MNIST Images.   
 
 
 
