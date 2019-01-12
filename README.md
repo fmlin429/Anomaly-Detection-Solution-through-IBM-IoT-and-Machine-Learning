@@ -33,6 +33,15 @@ To explore more advanced areas in deep learning after the course works, I select
 
 <img width="818" alt="gan_applications" src="https://user-images.githubusercontent.com/18288611/51066242-b542a200-15ce-11e9-9e7b-391f42cb39ae.png">
 
+#### Industry Use Case: Drug Discovery vs. Drug Design (Generate)
+
+<img width="794" alt="grug_discovery" src="https://user-images.githubusercontent.com/18288611/51066777-f8eadb00-15d1-11e9-8e80-3bcf5501f333.png">
+
+
+#### Industry Use Case Solution: ChemGAN on Drug Discovery
+
+<img width="797" alt="chemgan" src="https://user-images.githubusercontent.com/18288611/51066786-1e77e480-15d2-11e9-81c8-a55019f3a039.png">
+
 ### 4. A GAN Case Study using MNIST Image Dataset 
 
 ### 4.1. Experience MNIST 
