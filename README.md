@@ -70,9 +70,9 @@ The results show the image quality improved signficantly with the epcodes (itera
 
 ### 5. Reference
 
-https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf
-https://skymind.ai/wiki/generative-adversarial-network-gan
-https://github.com/llSourcell/AI_for_healthcare/blob/master/Healthcare%20Drug%20Discovery.ipynb
+* https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf
+* https://skymind.ai/wiki/generative-adversarial-network-gan
+* https://github.com/llSourcell/AI_for_healthcare/blob/master/Healthcare%20Drug%20Discovery.ipynb
 
 
 
