@@ -15,9 +15,6 @@ To explore more advanced areas in deep learning after the course works, I select
 * Introduce MNIST Dataset through a classification example
 * Case Study: Generate MNIST images through GAN
 
-#### A results of loss/accuracy vs. epocdes diagram of the simple Feed forward Neural Network
-<img width="614" alt="mnist_result_analysis" src="https://user-images.githubusercontent.com/18288611/51066572-a52bc200-15d0-11e9-8139-f124c6bef046.png">
-
 ### 3. Generative Adversarial Networks (GAN) Review
 
 #### GAN Snapshoot
@@ -36,7 +33,9 @@ To explore more advanced areas in deep learning after the course works, I select
 
 <img width="818" alt="gan_applications" src="https://user-images.githubusercontent.com/18288611/51066242-b542a200-15ce-11e9-9e7b-391f42cb39ae.png">
 
-### 4. A Case Study using MNIST Image Dataset 
+### 4. A GAN Case Study using MNIST Image Dataset 
+
+### 4.1. Experience MNIST 
 
 #### MNIST Dataset
 
@@ -44,6 +43,11 @@ To explore more advanced areas in deep learning after the course works, I select
 
 #### MNIST Data Example
 <img width="775" alt="mnist_data" src="https://user-images.githubusercontent.com/18288611/51065983-5c263e80-15cd-11e9-8d98-c57b08f414ad.png">
+
+#### A results of loss/accuracy vs. epocdes diagram of the simple Feed forward Neural Network
+<img width="614" alt="mnist_result_analysis" src="https://user-images.githubusercontent.com/18288611/51066572-a52bc200-15d0-11e9-8139-f124c6bef046.png">
+
+### 4.2. Experience GAN with MNIST
 
 #### Put together Generator and Discriminator to GAN Model
 <img width="813" alt="gan_networks" src="https://user-images.githubusercontent.com/18288611/51066370-592c4d80-15cf-11e9-8b3e-28bbe175d47f.png">
