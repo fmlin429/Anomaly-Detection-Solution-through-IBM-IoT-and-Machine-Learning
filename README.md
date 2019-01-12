@@ -21,21 +21,39 @@ To explore more advanced areas in deep learning after the course works, I select
 
 <img width="813" alt="gan_snapshoot" src="https://user-images.githubusercontent.com/18288611/51065246-79f1a480-15c9-11e9-9afd-27f5eb8fb627.png">
 
-#### GAN Architecture (MNIST as an example)
+#### GAN Architecture
 
 <img width="675" alt="gan_architecture" src="https://user-images.githubusercontent.com/18288611/51066168-4cf3c080-15ce-11e9-9902-297b6b17a529.png">
 
-#### GAN Applications example
+#### GAN Architecture (MNIST as an example)
 
 <img width="740" alt="gan_instance" src="https://user-images.githubusercontent.com/18288611/51065266-968ddc80-15c9-11e9-975b-40bc63012bd2.png">
 
+#### GAN Applications example
 
-### MNIST Dataset
+<img width="818" alt="gan_applications" src="https://user-images.githubusercontent.com/18288611/51066242-b542a200-15ce-11e9-9e7b-391f42cb39ae.png">
+
+### 4. A Case Study using MNIST Image Dataset 
+
+#### MNIST Dataset
 
 <img width="634" alt="mnist_dataset" src="https://user-images.githubusercontent.com/18288611/51065964-46187e00-15cd-11e9-9b44-8281da466de3.png">
 
-### MNIST Data Example
+#### MNIST Data Example
 <img width="775" alt="mnist_data" src="https://user-images.githubusercontent.com/18288611/51065983-5c263e80-15cd-11e9-8d98-c57b08f414ad.png">
+
+#### Put together Generator and Discriminator to GAN Model
+<img width="813" alt="gan_networks" src="https://user-images.githubusercontent.com/18288611/51066370-592c4d80-15cf-11e9-8b3e-28bbe175d47f.png">
+
+#### Apply the GAN Model to get the generated images based on parameters (i.e. epocdes)
+<img width="815" alt="gan_model_app" src="https://user-images.githubusercontent.com/18288611/51066433-b922f400-15cf-11e9-8fa1-c5f569ffde4d.png">
+
+#### GAN Results Review
+<img width="823" alt="gan_results" src="https://user-images.githubusercontent.com/18288611/51066472-eff90a00-15cf-11e9-9a59-16550f57cc37.png">
+
+
+
+
 
 
 
