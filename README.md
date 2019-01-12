@@ -17,11 +17,11 @@ To explore more advanced areas in deep learning after the course works, I select
 
 ### 3. Generative Adversarial Networks (GAN) Review
 
-#### GAN Snapshoot
+### 3.1 GAN Snapshoot
 
 <img width="813" alt="gan_snapshoot" src="https://user-images.githubusercontent.com/18288611/51065246-79f1a480-15c9-11e9-9afd-27f5eb8fb627.png">
 
-#### GAN Architecture
+### 3.2 GAN Architecture
 
 <img width="675" alt="gan_architecture" src="https://user-images.githubusercontent.com/18288611/51066168-4cf3c080-15ce-11e9-9902-297b6b17a529.png">
 
@@ -29,14 +29,13 @@ To explore more advanced areas in deep learning after the course works, I select
 
 <img width="740" alt="gan_instance" src="https://user-images.githubusercontent.com/18288611/51065266-968ddc80-15c9-11e9-975b-40bc63012bd2.png">
 
-#### GAN Applications example
+### 3.3 GAN Applications example
 
 <img width="818" alt="gan_applications" src="https://user-images.githubusercontent.com/18288611/51066242-b542a200-15ce-11e9-9e7b-391f42cb39ae.png">
 
 #### Industry Use Case: Drug Discovery vs. Drug Design (Generate)
 
 <img width="794" alt="grug_discovery" src="https://user-images.githubusercontent.com/18288611/51066777-f8eadb00-15d1-11e9-8e80-3bcf5501f333.png">
-
 
 #### Industry Use Case Solution: ChemGAN on Drug Discovery
 
@@ -69,6 +68,11 @@ To explore more advanced areas in deep learning after the course works, I select
 
 The results show the image quality improved signficantly with the epcodes (iterations). The image quality of 400 epcode is close to the real MNIST Images.   
 
+### 5. Reference
+
+https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf
+https://skymind.ai/wiki/generative-adversarial-network-gan
+https://github.com/llSourcell/AI_for_healthcare/blob/master/Healthcare%20Drug%20Discovery.ipynb
 
 
 
